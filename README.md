@@ -44,10 +44,12 @@ Desarrollar un modelo de machine learning que prediga el número de pedidos de t
 
 ## 📁 Estructura del repositorio
 ```text
-├── datasets/
-│   └── taxi.csv
 ├── notebooks/
 │   └── taxi_demand_analysis.ipynb
+├────── datasets/
+│       └── taxi.csv
 ├── images/
 │   └── rmse_comparison.png
+│   └── estacionalidad.png
+│   └── Ordenes_por_hora.png
 ├── README.md
